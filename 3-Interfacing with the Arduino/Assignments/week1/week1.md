@@ -15,13 +15,3 @@ Show the behavior of the system under 3 conditions:
 **Solution:**
 
 **https://www.youtube.com/watch?v=5glRruGKi4M&feature=emb_title**
-
-
-![alt text](1.png)
-
-
-# 2-Compare the functions of the device in the past to the functions of the device now.
-
-**Uploading is done successfully**
-
-![alt text](2.png)

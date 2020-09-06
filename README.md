@@ -16,4 +16,4 @@ Design, create, and deploy a fun IoT device using Arduino and Raspberry Pi platf
 
 **Specialization Link:**
 
-***https://www.coursera.org/specializations/iot***
+**https://www.coursera.org/specializations/iot**

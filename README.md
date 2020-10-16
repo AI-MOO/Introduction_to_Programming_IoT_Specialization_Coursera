@@ -1,4 +1,4 @@
-# Introduction to Programming IoT Specialization Coursera
+# Introduction to Programming IoT Specialization, Coursera
 
 **This Specialization includes the following courses:**
 
